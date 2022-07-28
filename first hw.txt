@@ -1,0 +1,23 @@
+1) cd D:/QA_Courses/Terminal_Git/git_hw - перешел в директорию
+2) pwd - посмотрел где я
+3) mkdir hw_first - создал папку
+4) cd hw_first - перешел в папку
+5) mkdir 1 2 3 - создал 3 папки
+6) cd 1 - зашел в папку 1
+7) touch qq.txt qw.txt qe.txt qr.json qt.json - создал 5 файлов, из которых 2 txt и 2 json
+8) mkdir q1 q2 q3 - создал еще 3 папки
+9) ls -la - вывел содержимое папки
+10) cat >> qq.txt
+i typed smth here
+command is cat
+ctrl+c
+написал что-то в файле и закрыл
+11) cd ../ - вышел на уровень выше
+
+12) mv hw_first/qq.txt hw_first/1/qq.txt
+mv hw_first/qw.txt hw_first/1/qw.txt
+перенес 2 файла в другую папку
+13) find -name qq.txt - нашел файл по имени
+14) cat hw_first/1/qq.txt - прочел содержание
+15) head -n 1 hw_first/1/qq.txt - вывел первую строку
+16) tail -n 1 hw_first/1/qq.txt - вывел последнюю строку

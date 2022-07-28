@@ -1,3 +1,0 @@
-i've created the first file which i commited to my git
-second string
-

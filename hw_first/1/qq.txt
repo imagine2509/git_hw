@@ -1,0 +1,3 @@
+i typed smth here
+command is cat
+ctrl+c
