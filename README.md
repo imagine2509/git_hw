@@ -1,2 +1,2 @@
 # git_hw
-Learning GIT here
+Learning GIT and GitBash here
