@@ -21,3 +21,4 @@ mv hw_first/qw.txt hw_first/1/qw.txt
 14) cat hw_first/1/qq.txt - прочел содержание
 15) head -n 1 hw_first/1/qq.txt - вывел первую строку
 16) tail -n 1 hw_first/1/qq.txt - вывел последнюю строку
+17) date - вывел текущие дату и время
