@@ -6,3 +6,4 @@ cd 1
 touch qq.txt qw.txt qe.txt qr.json qt.json
 mkdir q1 q2 q3
 mv qq.txt qr.json q1
+ls -la
